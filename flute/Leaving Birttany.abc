@@ -4,11 +4,11 @@ R: waltz
 M: 3/4
 L: 1/8
 K: Bmin
-FF BB dz | ff BB AA | FF BB dB | fe dc Bd | cA A/A/A ^GA | EA z AA A | ^A^A BB cc | cc de fg |
-f2 B2 dz | ff BB AB | FF BB dB | fe dc Bd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | bz z2 BA |
-FF Bz dB | fz BB AB | FF Bz dB | fe dc Bd | cA A/A/A ^GA | EA z AA z | ^A^A BB cc | cc de fg |
-f2 B2 dz | ff BB AB | FF Bz dB | fe dc Bd | cA A/A/A ^GA | EA z AA z | ^ABc z ff | bz z2 FB |
-fB B/B/B FB | fB B/B/B FB | ffe ffe | f2 ee dd | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc de f/g/ | f2 zB FB |
+FF Bz dz | ff BB AA | FF BB dB | fe dc Bd | cA A/A/A ^GA | EA z AA A | ^A^A BB cc | cc d2 e/f/g |
+f2 Bz dz | ff BB AB | FF Bz dB | fe dc Bd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | bz z2 BA |
+FF Bz dB | fz BB AB | FF Bz dB | fe dc Bd | cA A/A/A ^GA | EA z AA z | ^A^A BB cc | cc d2 e/f/g |
+f3 B  FB | fz BB AB | FF Bz dB | fe dc Bd | cA A/A/A ^GA | EA z AA z | ^ABc z ff | bz z2 FB |
+fB B/B/B FB | fB B/B/B FB | ffe ffe | f2 ee dd | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc d2 e/f/g | f3 B FB |
 fB B/B/B FB | fB B/B/B FB | f2e f2e | f2 e2 d2 | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | bz z2 FB |
-fB B/B/B FB | fB B/B/B FB | ffa f2a | ff ez d2 | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc de f/g/ | f2 zB FB |
+fB B/B/B FB | fB B/B/B FB | ffa f2a | ff ez d2 | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc d2 e/f/g | f3 B FB |
 fB B/B/B FB | ffe ffe | ff ee d2 | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | b6 |
