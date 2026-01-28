@@ -1,3 +1,9 @@
+G: flute
+Z: Erzbir
+F: https://github.com/Erzbir/music-library
+S: The first part of Leaving Birttany and The Pernod Waltz performed by Brian Finnegan with Eb whistle
+N: The original key is Cmin
+N: This version is for D whistle
 X: 1
 T: Leaving Brittany
 R: waltz
@@ -19,5 +25,5 @@ f2 Bz dB | fz BB AB | FF BB dB | fe dc Bd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z 
 fB B/B/B FB | fB B/B/B FB | ffe ffe | ff ee dd | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc d2 e/f/g | f3 B FB |
 fB B/B/B FB | fB B/B/B FB | ffa ffa | fz ee dd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | bz z2 FB |
 fz Bz FB | fB zB FB | ffe ffe | ff ee dd | cA A/A/A ^GA | EA A/A/AA z | ^A^A BB cc | cc d2 e/f/g | f3 B FB |
-fB B/B/B FB | fB B/B/B FB | ffe ffe | ff ee dd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | b6 |
+fB B/B/B FB | fB B/B/B FB | ffe ffe | ff ee dd | cA A/A/A ^GA | EA A/A/AA z | ^ABc z ff | b6 ||
 

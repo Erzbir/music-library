@@ -1,7 +1,7 @@
 G: flute
 Z: Erzbir
 F: https://github.com/Erzbir/music-library
-S: The forth part of Fly performed by Brian Finnegan
+S: The forth part of Fly performed by Brian Finnegan with A whistle
 N: The original key is F#min
 N: This version is for D whistle
 X: 1
@@ -9,20 +9,20 @@ T: Superfly
 M: 4/4
 L: 1/8
 K: Bmin
-Bfff gfeg | f3 f2 edB | eee f edce | deBA BAFA |
-Bfff gfeg | f2zff edf | eee f edce | deBA Bzzz |
-Bfff gfeg | f3 f2 edB | eee f edce | deBA BAFA |
-Bfff gfeg | fzzff edf | eee f edce | deBA BzBA |
-Bc de ff Bc | defd g2 Bc | defd a3 f | gfeg fedc |
-Bc de ff Bc | defd gz Bc | defd a2 ab | gfeg f3z |
-Bc de ff Bc | defd g2 Bc | defd a3 f | gfeg fedc |
-Bc de ff Bc | defd gz Bc | defd a3 b | gfeg fzzz |
-Bfff gfeg | f2zff edf | eee f edce | deBA BAFA |
-Bfff gfeg | f3 f2 edB | eee f edce | deBA Bzzz |
-Bfff gfeg | f3 f2 edf | eee f edce | deBA BAFA |
-Bfff gfeg | f3 f2 edf | eee f edce | deBA BzBA |
-Bc de ff Bc | defd gz Bc | deed a2 ab | gfeg fedc |
-Bc de ff Bc | defd gz Bc | defd a3 b | gfeg f3z |
-Bc de ff Bc | defd g2 Bc | deed a2 ab | gfeg fedc |
-Bc de ff Bc | defd gz Bc | defd azzz |
-gfe gfed f | ed BA B2 dd |AF EF A B B4|
+Bfff gfeg | f3 f2 edB | eeef edce | deBA BAFA |
+Bfff gfeg | f2zff edf | eeef edce | deBA B2z2 |
+Bfff gfeg | f3 f2 edB | eeef edce | deBA BAFA |
+Bfff gfeg | fzzff edf | eeef edce | deBA BzBA |
+Bcde ffBc | defd g2Bc | defd a3 f | gfeg fedc |
+Bcde ffBc | defd gzBc | defd a2ab | gfeg f3 z |
+Bcde ffBc | defd g2Bc | defd a3 f | gfeg fedc |
+Bcde ffBc | defd gzBc | defd a3 b | gfeg f2zz |
+Bfff gfeg | f2zff edf | eeef edce | deBA BAFA |
+Bfff gfeg | f3 f2 edB | eeef edce | deBA B2z2 |
+Bfff gfeg | f3 f2 edf | eeef edce | deBA BAFA |
+Bfff gfeg | f3 f2 edf | eeef edce | deBA BzBA |
+Bcde ffBc | defd gzBc | deed a2ab | gfeg fedc |
+Bcde ffBc | defd gzBc | defd a3 b | gfeg f3 z |
+Bcde ffBc | defd g2Bc | deed a2ab | gfeg fedc |
+Bcde ffBc | defd gzBc | defd a2z2 |
+gfeg fedf | edBA B2dd | AFEF ABB2 ||
